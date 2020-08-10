@@ -12,3 +12,12 @@
    6. Put console.log('hello world')
    7. Put document.write('hello world')
    8. Live Server Extension
+2. JavaScript Basics
+   1. Console
+   2. Comments
+   3. Data Types
+   4. Arithmetic Operators
+   5. String Concatenation
+   6. Properties
+   7. Methods
+   8. Built-in Objects
